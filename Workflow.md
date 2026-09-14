@@ -1,7 +1,3 @@
-Absolutely. Based on the project you described, the best way to explain it is as an **end-to-end BFSI GenAI case-intelligence pipeline**, not simply as an “LLM extraction project.”
-
-Below is the complete workflow you can use for **GitHub documentation, interviews, project explanation, and LinkedIn**.
-
 # 🚀 Project: AI-Driven PD Note Case Intelligence & Risk Screening
 
 ### One-line project explanation
